@@ -5,7 +5,7 @@
 - 💬 Ask me about CyberSecurity, Cloud, and DevOps
 - :brain: Always **learning**
 - 📫 How to reach me: fernando0stc@gmail.com
-- 📝 Blog: https://fernando0stc.medium.com/
+- 📝 Blog: http://fernandocardoso.us
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoc/)](https://www.linkedin.com/in/fernandoc/)
