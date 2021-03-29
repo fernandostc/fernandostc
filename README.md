@@ -5,7 +5,8 @@
 - 💬 Ask me about CyberSecurity, Cloud, and DevOps
 - :brain: Always **learning**
 - 📫 How to reach me: fernando0stc@gmail.com
-- 📝 Blog: http://fernandocardoso.us
+- 📝 Blog: http://fernandocardoso.us - check out Recent post on Medium! 
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/0" alt="Recent Article 0"></a>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoc/)](https://www.linkedin.com/in/fernandoc/)
