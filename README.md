@@ -5,7 +5,10 @@
 - 💬 Ask me about CyberSecurity, Cloud, and DevOps
 - :brain: Always **learning**
 - 📝 Blog: http://fernandocardoso.us - check out Recent post on Medium! 
+
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/0" alt="Recent Article 0"></a>
+
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fernando0stc/1" alt="Recent Article 1"></a>
 
 
 [<img src="https://img.shields.io/github/followers/fernandostc?label=follow&style=social" height="22" title="Follow me" />](https://github.com/fernandostc) 
