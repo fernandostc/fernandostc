@@ -1,7 +1,7 @@
 ### Hi there, I'm Fernando Cardoso 👋
 
 - :computer: I’m currently working on Cloud Security and DevSecOps
-- :books: I’m currently reading Na Raça
+- :books: I’m currently reading Leading Without Authority
 - 💬 Ask me about CyberSecurity, Cloud, and DevOps
 - :brain: Always **learning**
 - 📝 Blog: http://fernandocardoso.us - check out Recent post on Medium! 
