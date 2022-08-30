@@ -1,7 +1,7 @@
 ### Hi there, I'm Fernando Cardoso 👋
 
 - :computer: I’m currently working on Cloud Security and DevSecOps
-- :books: I’m currently reading Atomic Habits
+- :books: I’m currently reading Hit Refresh & Disciplined Entrepreneurship: 24 Steps to a Successful Startup
 - 💬 Ask me about CyberSecurity, Cloud, and DevOps
 - :brain: Always **learning**
 - 📝 Blog: http://fernandocardoso.us - check out Recent post on Medium! 
